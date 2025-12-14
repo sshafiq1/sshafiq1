@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Sarah, a senior at Fordham University studying Math and Computer Science. My interests are vast and multidisciplinary, but nowadays I'm focusing on AI/ML and quantum computing. 
+
+I love meeting new people and talking about fresh ideas! Feel free to connect or contact me at sshafiq@fordham.edu.
+
 <!--
 **sshafiq1/sshafiq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
